@@ -1,7 +1,7 @@
 dependencies:
-  - name: postgresql-aliyun
+  - name: postgresql
     version: 0.0.1
     repository: https://hanahmily.github.io/aliyun-chart/
-  - name: redis-aliyun
+  - name: redis
     version: 0.0.1
     repository: https://hanahmily.github.io/aliyun-chart/
