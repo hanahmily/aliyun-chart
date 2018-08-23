@@ -139,14 +139,14 @@ ingress:
 
 # TODO: add support for plugins https://docs.sentry.io/server/plugins/
 
-postgresql:
+postgresql-aliyun:
   postgresDatabase: sentry
   postgresUser: sentry
   imageTag: "9.5"
   persistence:
     enabled: true
 
-redis:
+redis-aliyun:
   persistence:
     enabled: true
 
