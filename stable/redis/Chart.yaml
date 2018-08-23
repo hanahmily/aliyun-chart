@@ -1,4 +1,4 @@
-name: redis-aliyun
+name: redis
 version: 0.0.1
 appVersion: 4.0.11
 description: Open source, advanced key-value store. It is often referred to as a data structure server since keys can contain strings, hashes, lists, sets and sorted sets.
