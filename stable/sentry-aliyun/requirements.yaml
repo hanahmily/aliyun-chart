@@ -1,0 +1,7 @@
+dependencies:
+  - name: postgresql-aliyun
+    version: 0.0.1
+    repository: http://127.0.0.1:8879/charts
+  - name: redis-aliyun
+    version: 0.0.1
+    repository: http://127.0.0.1:8879/charts
