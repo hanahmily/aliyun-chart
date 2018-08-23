@@ -1,9 +1,0 @@
-dependencies:
-- name: postgresql-aliyun
-  repository: https://hanahmily.github.io/aliyun-chart/
-  version: 0.0.1
-- name: redis-aliyun
-  repository: https://hanahmily.github.io/aliyun-chart/
-  version: 0.0.1
-digest: sha256:9a6c08e820eb2ae72c86d383a166a37271656ab2030b4d44c4cbfb3b73587048
-generated: 2018-08-23T12:44:24.413313183+08:00
